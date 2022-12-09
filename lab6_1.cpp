@@ -14,11 +14,7 @@ int main(){
         if(num%2 !=0){
             odd++;
         }
-
-    
-    
     }
-    
     
     cout << "#Even numbers = "<< even <<"\n";
     cout << "#Odd numbers = "<<odd <<"\n";
